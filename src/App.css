@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.grid-wrapper {
+  /* width: 500px;
+  height: 500px; */
+}
+
+.grid {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-columns: repeat(10, 1fr);
+  width: calc(20px * 10);
+  height: calc(20px * 10);
+}
+
+.grid__cell {
+  border: 1px solid grey;
+  width: 20px;
+  height: 20px;
+}
+
+.grid__cell--colored {
+  background-color: lightblue;
+}
