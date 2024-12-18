@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Selectable Grid React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+https://github.com/user-attachments/assets/3cf292e6-d6f2-49ab-b40f-350c895be732
+
+
 
 ## Available Scripts
 
@@ -73,7 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - [x] Create grid component
 - [x] Generate the board
-- [ ] Add the onDrag event listener
-- [ ] Add the onDragOver event listener
-- [ ] Handle the coloring functionality
-- [ ] Handle reset when the user starts dragging again
+- [x] Add the onDrag event listener
+- [x] Add the onDragOver event listener
+- [x] Handle the coloring functionality
+- [x] Handle reset when the user starts dragging again
